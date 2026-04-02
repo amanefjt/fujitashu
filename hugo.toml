@@ -2,6 +2,8 @@ baseURL = "https://fujitashu.pages.dev/"
 languageCode = "ja"
 defaultContentLanguage = "ja"
 title = "日記"
+publishFuture = true
+
 
 # 著者・サイト情報
 [author]
