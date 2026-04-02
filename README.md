@@ -26,6 +26,23 @@ git pull upstream main
 
 ---
 
+## 💰 記事の有料化 (codoc)
+
+このテンプレートは [codoc](https://codoc.jp/) に対応しています。
+
+### 有料記事の作成手順
+1. **codoc アカウント作成**: 公開サイト設定を完了させます。
+2. **有料記事のID取得**: codocダッシュボードで記事を作成し、`data-id` をコピーします。
+3. **日記に貼り付け**: 日記の Markdown 内で以下のように記述します。
+
+```markdown
+{{< codoc id="取得した記事ID" >}}
+{{< codoc-paywall >}}
+```
+
+> [!TIP]  
+> 記事の途中に `codoc-paywall` を置くと、そこから上が「無料の試し読み」、下が「有料エリア」になります！
+
 ## 🧐 困ったときは (Troubleshooting)
 
 ### サイトが更新されない・繋がらない
@@ -38,3 +55,11 @@ git pull upstream main
 このサイトの構築経緯や技術的な詳細は、以下のログに記録されています。
 - [移転・要件ログ](docs/management/requirements_log.md)
 - [トラブルシューティング記録](docs/management/troubleshooting_log.md)
+
+---
+
+## 📅 更新履歴 (Latest Updates)
+
+### 2026-04-01
+- **有料化対応 (codoc 統合)**: `{{< codoc >}}` および `{{< codoc-paywall >}}` ショートコードを追加。
+- **お引越し完了**: Google ドライブへの完全移行と親子連携設定の完了。
