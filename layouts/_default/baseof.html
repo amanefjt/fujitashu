@@ -6,13 +6,17 @@
   <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}</title>
   <meta name="description" content="{{ .Site.Params.description }}">
   <link rel="stylesheet" href="{{ "/style.css" | relURL }}">
-  <meta name="codoc-user-id" content="cFhPkVEVKg">
-  <script src="https://codoc.jp/js/cms.js" data-usercode="cFhPkVEVKg" charset="utf-8" defer></script>
 </head>
 <body>
   <header>
     <h1><a href="{{ "/" | relURL }}" style="color: inherit; text-decoration: none;">{{ .Site.Title }}</a></h1>
     {{ if .IsHome }}<p class="site-description">{{ .Site.Params.description }}</p>{{ end }}
+    <nav class="site-nav">
+      <a href="{{ "/" | relURL }}">日記</a>
+      <a href="{{ "/about/" | relURL }}">プロフィール</a>
+      <a href="{{ "/en/" | relURL }}">English</a>
+      <a href="{{ "/evocative/" | relURL }}">映像・写真</a>
+    </nav>
   </header>
   <main>
     {{ block "main" . }}{{ end }}

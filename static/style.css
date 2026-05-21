@@ -133,7 +133,33 @@ blockquote {
         margin-right: 1.5em;
     }
 }
-/* 10. ページネーション */
+/* 10. サイトナビゲーション */
+.site-nav {
+  text-align: center;
+  margin: 8px 0 20px;
+  font-size: 0.9em;
+}
+.site-nav a {
+  margin: 0 0.6em;
+  color: #888888;
+}
+
+/* 11. プロフィールページ */
+.profile-page h2 {
+  font-size: 1.1em;
+  font-weight: normal;
+  margin-top: 2.5em;
+  border-bottom: 1px solid #e0e0e0;
+  padding-bottom: 4px;
+}
+.profile-page h3 {
+  font-size: 0.95em;
+  font-weight: bold;
+  margin-top: 1.5em;
+  color: #555555;
+}
+
+/* 12. ページネーション */
 .pagination {
   display: flex;
   justify-content: space-between;
