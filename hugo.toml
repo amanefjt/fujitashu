@@ -1,7 +1,7 @@
 baseURL = "https://fujitashu.pages.dev/"
 languageCode = "ja"
 defaultContentLanguage = "ja"
-title = "日記"
+title = "fujitashu"
 publishFuture = true
 
 
