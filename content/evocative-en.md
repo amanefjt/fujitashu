@@ -48,7 +48,7 @@ Film also records what nobody intended. The old man at the start wears a Bob Mar
 
 ## Trying it
 
-### Steps
+### Common steps
 
 1. Choose images
 Look idly through the footage, photographs or written cases from fieldwork and pick out whatever catches your attention. If something seems obscure, or records a trivial event, pick it anyway if it feels right.
@@ -96,19 +96,19 @@ Titles in brackets are translations. Statements, readings and responses are tran
 
 > Lapping, swaying, bursting, writhing. Taking the force of nature, and failing to take it. Resisting, and failing to resist. People play, sing, pull, fall.
 
-▶ Watch: [https://vimeo.com/952835839](https://vimeo.com/952835839)
+https://vimeo.com/952835839
 
 **Hikaru Sashida 2024 *Moving Towards* [*Mukaiyuku mono*]**
 
 > I feel I must keep moving so as not to fall behind the flow of time. But really I want always to sway between moving and stopping. So I extended my body, so that it would be all right to stay, all right to let myself go. Sometimes we mark time, turn back, and set out again.
 
-▶ Watch: [https://vimeo.com/994776374](https://vimeo.com/994776374)
+https://vimeo.com/994776374
 
 **Shu Fujita 2022 *Dancing Together* [*Minna de odoru*]**
 
 > Dancing together. The way this "together" is made is not the way other "togethers" are made. It is a "together" made without anything changing in kind from dancing alone. Perhaps, even alone, one is part of a "together" born in answer to the same nature as everyone else. Dancing together, in that sense.
 
-▶ Watch: [https://youtu.be/jvkW7ilhSfo](https://youtu.be/jvkW7ilhSfo)
+https://youtu.be/jvkW7ilhSfo
 
 #### Raglai, Vietnam (footage: Yanggu Kang)
 
@@ -116,13 +116,13 @@ Titles in brackets are translations. Statements, readings and responses are tran
 
 > The bodies and sounds you and I make are busily heading somewhere. Not hurrying. Only thickening and spreading. And where we arrive is a small gap. After a short rest, we start to stir again, heading somewhere else.
 
-▶ Watch: [https://youtu.be/aUXWYMPnZW8](https://youtu.be/aUXWYMPnZW8)
+https://youtu.be/aUXWYMPnZW8
 
 **Shu Fujita 2024 *Sowing Seeds, Giving Water* [*Tane o maku, mizu o ageru*]**
 
 > We are alive because someone sows the seeds and gives them water. Prayer goes with it.
 
-▶ Watch: [https://youtu.be/agj-Ij3lSng](https://youtu.be/agj-Ij3lSng)
+https://youtu.be/agj-Ij3lSng
 
 #### Peru (footage: Shu Fujita)
 
@@ -130,19 +130,19 @@ Titles in brackets are translations. Statements, readings and responses are tran
 
 > Pushing back against the vibration of the air around us. When we ride on it and head the way we are pointed, we become us.
 
-▶ Watch: [https://youtu.be/VQmRKoY76Ac](https://youtu.be/VQmRKoY76Ac)
+https://youtu.be/VQmRKoY76Ac
 
 **Shu Fujita 2023 *What Does Not Pass By 2023* [*Toorisuginai mono 2023*]. Subtitles from Hiroshi Homura, *Syndicate* (1990)**
 
 > What makes the oppressive overlap of bustle is each single bustle, and each one is a single gleam.
 
-▶ Watch: [https://www.youtube.com/watch?v=S18X0sp36CY](https://www.youtube.com/watch?v=S18X0sp36CY)
+https://www.youtube.com/watch?v=S18X0sp36CY
 
 **Hiroto Tsuda 2021 *Second Life in Peru***
 
 > Edited from footage shot during anthropological fieldwork on Peruvian cuisine (February 2020).
 
-▶ Watch: [https://youtu.be/kYiePpIqRTs](https://youtu.be/kYiePpIqRTs)
+https://youtu.be/kYiePpIqRTs
 
 ### Photo compositions
 
@@ -178,17 +178,13 @@ Five editors, anthropologists and a documentary filmmaker among them, composed p
 
 ![An installation: acrylic sheets held up by white spheres on a glass table, with photographs in several layers](/images/evocative/philippines-hasegawa-wide.jpg)
 
-![Photographs on an acrylic sheet, with more photographs in the layer beneath](/images/evocative/philippines-hasegawa-close.jpg)
-
 A sediment of things left behind, still wrapped in their presence; through each of its gaps, glimpses of how they were worked upon.
 
 On the day of installation, Hasegawa set down bundles of photographs and saw that the piece could spread beyond the acrylic sheets, onto the glass table and onto the floor outside the glass wall. The title and statement came out of the arrangement that resulted.
 
 **Kunitaro Inoue, *Pipes and Valves (The Seepage of a Thick Liquid)***
 
-![Photographs on a wall, each with the shape of a person, a hand or a cat cut out and marked in red](/images/evocative/philippines-inoue-wide.jpg)
-
-![A row of photographs with red cut-outs](/images/evocative/philippines-inoue-close.jpg)
+![Photographs on a wall, each with the shape of a person, a hand or a cat cut out and marked in red](/images/evocative/philippines-inoue-close.jpg)
 
 Inching along inside pipes that may not be there. Feeling I could go no further, or sitting down for a break, I put down roots, and familiar companions gathered round.
 
