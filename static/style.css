@@ -200,3 +200,13 @@ blockquote {
 .profile-page h2, .profile-page h3, .profile-page h4 {
     scroll-margin-top: 1em;
 }
+.profile-page blockquote {
+    margin-left: 1em;
+    margin-right: 0;
+    padding-left: 0.8em;
+    border-left: 2px solid #dddddd;
+    color: #555555;
+}
+.profile-page a {
+    word-break: break-all;
+}

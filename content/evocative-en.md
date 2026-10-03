@@ -92,33 +92,57 @@ Titles in brackets are translations. Statements, readings and responses are tran
 
 #### Solomon Islands (footage: Daisaku Hashizume)
 
-Riho Hasegawa 2023 *The Dynamics of Nature and People* [*Shizen to hito no rikigaku*]　[→ Vimeo](https://vimeo.com/952835839)
-Lapping, swaying, bursting, writhing. Taking the force of nature, and failing to take it. Resisting, and failing to resist. People play, sing, pull, fall.
+**Riho Hasegawa 2023 *The Dynamics of Nature and People* [*Shizen to hito no rikigaku*]**
 
-Hikaru Sashida 2024 *Moving Towards* [*Mukaiyuku mono*]　[→ Vimeo](https://vimeo.com/994776374)
-I feel I must keep moving so as not to fall behind the flow of time. But really I want always to sway between moving and stopping. So I extended my body, so that it would be all right to stay, all right to let myself go. Sometimes we mark time, turn back, and set out again.
+> Lapping, swaying, bursting, writhing. Taking the force of nature, and failing to take it. Resisting, and failing to resist. People play, sing, pull, fall.
 
-Shu Fujita 2022 *Dancing Together* [*Minna de odoru*]　[→ YouTube](https://youtu.be/jvkW7ilhSfo)
-Dancing together. The way this "together" is made is not the way other "togethers" are made. It is a "together" made without anything changing in kind from dancing alone. Perhaps, even alone, one is part of a "together" born in answer to the same nature as everyone else. Dancing together, in that sense.
+▶ Watch: [https://vimeo.com/952835839](https://vimeo.com/952835839)
+
+**Hikaru Sashida 2024 *Moving Towards* [*Mukaiyuku mono*]**
+
+> I feel I must keep moving so as not to fall behind the flow of time. But really I want always to sway between moving and stopping. So I extended my body, so that it would be all right to stay, all right to let myself go. Sometimes we mark time, turn back, and set out again.
+
+▶ Watch: [https://vimeo.com/994776374](https://vimeo.com/994776374)
+
+**Shu Fujita 2022 *Dancing Together* [*Minna de odoru*]**
+
+> Dancing together. The way this "together" is made is not the way other "togethers" are made. It is a "together" made without anything changing in kind from dancing alone. Perhaps, even alone, one is part of a "together" born in answer to the same nature as everyone else. Dancing together, in that sense.
+
+▶ Watch: [https://youtu.be/jvkW7ilhSfo](https://youtu.be/jvkW7ilhSfo)
 
 #### Raglai, Vietnam (footage: Yanggu Kang)
 
-Yanggu Kang 2024 *Moving with Sound* [*Oto to tomo ni mukau*]　[→ YouTube](https://youtu.be/aUXWYMPnZW8)
-The bodies and sounds you and I make are busily heading somewhere. Not hurrying. Only thickening and spreading. And where we arrive is a small gap. After a short rest, we start to stir again, heading somewhere else.
+**Yanggu Kang 2024 *Moving with Sound* [*Oto to tomo ni mukau*]**
 
-Shu Fujita 2024 *Sowing Seeds, Giving Water* [*Tane o maku, mizu o ageru*]　[→ YouTube](https://youtu.be/agj-Ij3lSng)
-We are alive because someone sows the seeds and gives them water. Prayer goes with it.
+> The bodies and sounds you and I make are busily heading somewhere. Not hurrying. Only thickening and spreading. And where we arrive is a small gap. After a short rest, we start to stir again, heading somewhere else.
+
+▶ Watch: [https://youtu.be/aUXWYMPnZW8](https://youtu.be/aUXWYMPnZW8)
+
+**Shu Fujita 2024 *Sowing Seeds, Giving Water* [*Tane o maku, mizu o ageru*]**
+
+> We are alive because someone sows the seeds and gives them water. Prayer goes with it.
+
+▶ Watch: [https://youtu.be/agj-Ij3lSng](https://youtu.be/agj-Ij3lSng)
 
 #### Peru (footage: Shu Fujita)
 
-Aguri Ide 2024 *Things That Sway* [*Nabiku mono tachi*]　[→ YouTube](https://youtu.be/VQmRKoY76Ac)
-Pushing back against the vibration of the air around us. When we ride on it and head the way we are pointed, we become us.
+**Aguri Ide 2024 *Things That Sway* [*Nabiku mono tachi*]**
 
-Shu Fujita 2023 *What Does Not Pass By 2023* [*Toorisuginai mono 2023*]. Subtitles from Hiroshi Homura, *Syndicate* (1990)　[→ YouTube](https://www.youtube.com/watch?v=S18X0sp36CY)
-What makes the oppressive overlap of bustle is each single bustle, and each one is a single gleam.
+> Pushing back against the vibration of the air around us. When we ride on it and head the way we are pointed, we become us.
 
-Hiroto Tsuda 2021 *Second Life in Peru*　[→ YouTube](https://youtu.be/kYiePpIqRTs)
-Edited from footage shot during anthropological fieldwork on Peruvian cuisine (February 2020).
+▶ Watch: [https://youtu.be/VQmRKoY76Ac](https://youtu.be/VQmRKoY76Ac)
+
+**Shu Fujita 2023 *What Does Not Pass By 2023* [*Toorisuginai mono 2023*]. Subtitles from Hiroshi Homura, *Syndicate* (1990)**
+
+> What makes the oppressive overlap of bustle is each single bustle, and each one is a single gleam.
+
+▶ Watch: [https://www.youtube.com/watch?v=S18X0sp36CY](https://www.youtube.com/watch?v=S18X0sp36CY)
+
+**Hiroto Tsuda 2021 *Second Life in Peru***
+
+> Edited from footage shot during anthropological fieldwork on Peruvian cuisine (February 2020).
+
+▶ Watch: [https://youtu.be/kYiePpIqRTs](https://youtu.be/kYiePpIqRTs)
 
 ### Photo compositions
 
@@ -126,7 +150,7 @@ Edited from footage shot during anthropological fieldwork on Peruvian cuisine (F
 
 Five anthropologists composed photographs by Ryo Tsuchida, an anthropologist who did fieldwork on floods and gemstones in Sri Lanka. Exhibited at Tokyo University of Foreign Studies (February 2025) and Kyoto City University of Arts (December 2025).
 
-Shu Fujita, *What Is Born of Mud*
+**Shu Fujita, *What Is Born of Mud***
 
 ![Shu Fujita's composition: photographs of mud, rivers, gemstones and food run from left to right on a white cloth](/images/evocative/srilanka-fujita.jpg)
 
@@ -136,7 +160,7 @@ Hiroto Tsuda's reading: There is a horizontal flow. From the left comes what is 
 
 Ryo Tsuchida's response: I know the smell of the mud, which way it flows and what it is. Mud did not stay inside the city; it filled it and went round it. You must not avoid mud; then you will notice the joy in what is born of it. Knowing mud was even knowing ourselves, or so it seems to me.
 
-Daisaku Hashizume, *Between Gods and Force*
+**Daisaku Hashizume, *Between Gods and Force***
 
 ![Daisaku Hashizume's composition: photographs of statues, temples, streets and the sea on a white cloth](/images/evocative/srilanka-hashizume.jpg)
 
@@ -150,7 +174,7 @@ Ryo Tsuchida's response: A blue-violet both edgy and pale. Once seen it is not e
 
 Five editors, anthropologists and a documentary filmmaker among them, composed photographs from *OUR CO-BLIND* by Masato Ushimaru, who photographed a community that blind people built and run by themselves in Baguio, in the northern Philippines. Some laid the photographs flat; others built three-dimensional pieces and installations. Exhibited at Tokyo University of Foreign Studies (October 2025).
 
-Riho Hasegawa, *Strata of Traces*
+**Riho Hasegawa, *Strata of Traces***
 
 ![An installation: acrylic sheets held up by white spheres on a glass table, with photographs in several layers](/images/evocative/philippines-hasegawa-wide.jpg)
 
@@ -160,7 +184,7 @@ A sediment of things left behind, still wrapped in their presence; through each 
 
 On the day of installation, Hasegawa set down bundles of photographs and saw that the piece could spread beyond the acrylic sheets, onto the glass table and onto the floor outside the glass wall. The title and statement came out of the arrangement that resulted.
 
-Kunitaro Inoue, *Pipes and Valves (The Seepage of a Thick Liquid)*
+**Kunitaro Inoue, *Pipes and Valves (The Seepage of a Thick Liquid)***
 
 ![Photographs on a wall, each with the shape of a person, a hand or a cat cut out and marked in red](/images/evocative/philippines-inoue-wide.jpg)
 
