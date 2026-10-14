@@ -12,10 +12,17 @@
     <h1><a href="{{ "/" | relURL }}" style="color: inherit; text-decoration: none;">{{ .Site.Title }}</a></h1>
     {{ if .IsHome }}<p class="site-description">{{ .Site.Params.description }}</p>{{ end }}
     <nav class="site-nav">
+      {{ if hasPrefix .RelPermalink "/en/" }}
+      <a href="{{ "/en/" | relURL }}">Profile</a>
+      <a href="{{ "/en/evocative/" | relURL }}">Evocative Editing</a>
+      <a href="{{ "/" | relURL }}">日本語</a>
+      {{ else }}
       <a href="{{ "/" | relURL }}">日記</a>
       <a href="{{ "/about/" | relURL }}">プロフィール</a>
-      <a href="{{ "/en/" | relURL }}">English</a>
       <a href="{{ "/evocative/" | relURL }}">喚起的編集</a>
+      <a href="{{ "/en/" | relURL }}">English</a>
+      <a href="{{ "/en/evocative/" | relURL }}">Evocative Editing</a>
+      {{ end }}
     </nav>
   </header>
   <main>
