@@ -8,7 +8,7 @@ type: page
 
 Cultural Anthropology of Contemporary Cuisine
 
-[Researchmap](https://researchmap.jp/shu-fujita)
+[Researchmap](https://researchmap.jp/shu-fujita) ／ [Ritsumeikan University Researcher Database](https://research-db.ritsumei.ac.jp/rithp/k03/resid/S003092)
 
 ---
 

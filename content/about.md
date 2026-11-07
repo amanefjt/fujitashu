@@ -8,7 +8,7 @@ type: page
 
 現代料理の文化人類学 / Cultural Anthropology of Contemporary Cuisine
 
-学術的な活動については [Researchmap](https://researchmap.jp/shu-fujita) をご覧ください。
+学術的な活動については [Researchmap](https://researchmap.jp/shu-fujita) や [立命館大学 研究者学術情報データベース](https://research-db.ritsumei.ac.jp/rithp/k03/resid/S003092) をご覧ください。
 
 ---
 

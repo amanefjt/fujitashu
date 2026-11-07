@@ -19,7 +19,12 @@ publishFuture = true
   authorJobTitle = "文化人類学者・立命館大学文学部准教授"
   authorAffiliation = "立命館大学"
   # 同一人物であることを検索エンジンに伝えるリンク（JSON-LD の sameAs）。ORCID・Academia・Bluesky は取得後に足す
-  sameAs = ["https://researchmap.jp/shu-fujita"]
+  # X（shu_nyaa）は藤田の判断で入れた（2026-11-07）。公的な窓口として扱われる
+  sameAs = [
+    "https://researchmap.jp/shu-fujita",
+    "https://research-db.ritsumei.ac.jp/rithp/k03/resid/S003092",
+    "https://x.com/shu_nyaa",
+  ]
   # Google Search Console の所有権確認（2026-11-07 登録）。消すと確認が外れる
   googleSiteVerification = "1ODjVAyH4AKbY4kie93EKAD-EjxMVsloAk0ZGmh_CnY"
   githubUser = ""
