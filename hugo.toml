@@ -12,7 +12,14 @@ publishFuture = true
 
 [params]
   description = ""
-  authorName = ""
+  # 検索結果の説明文と構造化データ用（画面には出ない。画面に出る一行は description）
+  metaDescription = "藤田周（Shu Fujita）の個人サイト。文化人類学者、立命館大学文学部准教授。現代料理の人類学、喚起的編集（写真・映像・文章でフィールドをつなぎ直す方法）、日記。"
+  authorName = "藤田周"
+  authorNameEn = "Shu Fujita"
+  authorJobTitle = "文化人類学者・立命館大学文学部准教授"
+  authorAffiliation = "立命館大学"
+  # 同一人物であることを検索エンジンに伝えるリンク（JSON-LD の sameAs）。ORCID・Academia・Bluesky は取得後に足す
+  sameAs = ["https://researchmap.jp/shu-fujita"]
   githubUser = ""
   twitterUser = ""
 

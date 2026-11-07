@@ -1,5 +1,6 @@
 ---
 title: "Profile (English)"
+description: "Profile of Shu Fujita, Associate Professor at Ritsumeikan University. A cultural anthropologist studying contemporary cuisine through fieldwork in restaurants in Peru and Japan."
 type: page
 ---
 

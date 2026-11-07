@@ -1,5 +1,6 @@
 ---
 title: "Evocative Editing"
+description: "Evocative editing is a method of arranging photographs and video from the field by intuition, then thinking through and putting into words the patterns the connections make. Works, workshops and references by Shu Fujita."
 type: page
 url: "/en/evocative/"
 ---

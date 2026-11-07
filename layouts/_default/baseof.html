@@ -4,7 +4,23 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}</title>
-  <meta name="description" content="{{ .Site.Params.description }}">
+  {{- $desc := .Site.Params.metaDescription -}}
+  {{- if and (not .IsHome) .Description }}{{ $desc = .Description }}
+  {{- else if and (not .IsHome) (eq .Type "diary") }}{{ $desc = .Plain | htmlUnescape | replaceRE "\\s+" " " | truncate 120 }}{{ end }}
+  <meta name="description" content="{{ $desc }}">
+  <link rel="canonical" href="{{ .Permalink }}">
+  <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
+  <meta property="og:site_name" content="{{ .Site.Title }}">
+  <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
+  <meta property="og:description" content="{{ $desc }}">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:locale" content="{{ if hasPrefix .RelPermalink "/en/" }}en_US{{ else }}ja_JP{{ end }}">
+  <meta name="twitter:card" content="summary">
+  {{ if .IsHome }}
+  <script type="application/ld+json">
+  {{ dict "@context" "https://schema.org" "@type" "Person" "name" .Site.Params.authorName "alternateName" .Site.Params.authorNameEn "url" .Site.BaseURL "jobTitle" .Site.Params.authorJobTitle "affiliation" (dict "@type" "CollegeOrUniversity" "name" .Site.Params.authorAffiliation) "sameAs" .Site.Params.sameAs | jsonify | safeJS }}
+  </script>
+  {{ end }}
   <link rel="stylesheet" href="{{ "/style.css" | relURL }}">
 </head>
 <body>
