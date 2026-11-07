@@ -8,6 +8,7 @@
   {{- if and (not .IsHome) .Description }}{{ $desc = .Description }}
   {{- else if and (not .IsHome) (eq .Type "diary") }}{{ $desc = .Plain | htmlUnescape | replaceRE "\\s+" " " | truncate 120 }}{{ end }}
   <meta name="description" content="{{ $desc }}">
+  {{ with .Site.Params.googleSiteVerification }}<meta name="google-site-verification" content="{{ . }}">{{ end }}
   <link rel="canonical" href="{{ .Permalink }}">
   <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
   <meta property="og:site_name" content="{{ .Site.Title }}">

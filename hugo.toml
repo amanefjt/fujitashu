@@ -20,6 +20,8 @@ publishFuture = true
   authorAffiliation = "立命館大学"
   # 同一人物であることを検索エンジンに伝えるリンク（JSON-LD の sameAs）。ORCID・Academia・Bluesky は取得後に足す
   sameAs = ["https://researchmap.jp/shu-fujita"]
+  # Google Search Console の所有権確認（2026-11-07 登録）。消すと確認が外れる
+  googleSiteVerification = "1ODjVAyH4AKbY4kie93EKAD-EjxMVsloAk0ZGmh_CnY"
   githubUser = ""
   twitterUser = ""
 
