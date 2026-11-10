@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-藤田周の個人サイト（`https://fujitashu.pages.dev/`）のリポジトリ。Hugo の静的サイトで、GitHub `amanefjt/fujitashu` の `main` に push すると Cloudflare Pages が自動でビルド・公開する。最終改訂：2026-11-07。
+藤田周の個人サイト（`https://fujitashu.pages.dev/`）のリポジトリ。Hugo の静的サイトで、GitHub `amanefjt/fujitashu` の `main` に push すると Cloudflare Pages が自動でビルド・公開する。最終改訂：2026-11-10。
 
 ## 前提（先に読む）
 
@@ -57,4 +57,6 @@ draft: false
 
 - 設定値（名前・説明文・リンク）は `hugo.toml` の `[params]` から参照し、テンプレートに直書きしない
 - CSS は `static/style.css` のみ。外部フレームワークは入れない
+- **日本語プロフィール（`about.md`）に学術業績（論文・書籍・学会発表・授業・科研費）の節は作らない。仕様である**（2026-11-10 藤田が確認）。学術業績は Researchmap への案内で済ませる。置くのは一般向け文章・講演や対談・インタビューだけ。英語版（`en.md`）にだけ Academic Works の節がある。
+- researchmap と突き合わせて業績を更新するときは、日本語版は「一般向け文章」、英語版は Academic Works を直す。年の食い違いは researchmap ではなく原典（CiNii など）で確かめる（超域文化科学紀要 28 号の論文は 2023 年。2026-11-10 に CiNii で確認し、英語版の 2024 を直した）。
 - プロフィール類は「〇〇を講演一覧に加えて」のような指示で、該当の `##` 見出しの節を編集する。新しい固定ページは `content/` に置いて `type: page` を指定する

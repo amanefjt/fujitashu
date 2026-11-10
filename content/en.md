@@ -44,7 +44,7 @@ Alongside the research on cuisine, I am also practising 'evocative film' and 'ev
 
 2025. "Methods of 'Let's Learn Fieldwork through Video Editing': In Pursuit of an Intra-Cinematic Understanding of the Field" (with Hiroto Tsuda). *Journal of Asian and African Studies* Supplement 6: 115–143. \[Originally written in Japanese.\]
 
-2024. "Exploring the Thought, Work, and Material Flow in Making: A Study of Culinary Processes in a Peruvian Contemporary Restaurant." *Interdisciplinary Cultural Studies* 28: 75–94. \[Originally written in Japanese.\]
+2023. "Exploring the Thought, Work, and Material Flow in Making: A Study of Culinary Processes in a Peruvian Contemporary Restaurant." *Interdisciplinary Cultural Studies* 28: 75–94. \[Originally written in Japanese.\]
 
 2023. "Toward A Potential Dimension of Cooking: Creation of 'New Dishes' and Exploration of 'Deliciousness' in a Contemporary Peruvian Restaurant." *Japanese Journal of Cultural Anthropology* 88(2): 195–214. \[Originally written in Japanese; rough English translation available on request.\]
 
