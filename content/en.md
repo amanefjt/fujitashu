@@ -48,7 +48,15 @@ Alongside the research on cuisine, I am also practising 'evocative film' and 'ev
 
 2023. "Toward A Potential Dimension of Cooking: Creation of 'New Dishes' and Exploration of 'Deliciousness' in a Contemporary Peruvian Restaurant." *Japanese Journal of Cultural Anthropology* 88(2): 195–214. \[Originally written in Japanese; rough English translation available on request.\]
 
-### Conference Presentations in English
+### Book Chapters
+
+2024. "Okashimaru: Wagashi That Shape What Does Not Exist." In Sayoko Sugiyama, *Okashimaru no kashi* [Okashimaru's Sweets], pp. 154–161. Kyoto: torch press. \[Originally written in Japanese.\]
+
+2024. "Are Cooking and Aquaculture an Entanglement of Nature and Culture? Eating *Feasting Wild* as a Dish, and Not Becoming a Salmon." In *"Nora ni naru" zuroku* [Catalogue of the exhibition "Becoming Feral"], pp. 130–135. Towada Art Center. \[Originally written in Japanese.\]
+
+### Conference Presentations in English and Spanish
+
+2025. "Entre la gastronomía global y la local: otra teoría de la globalización por el restaurante Central." Invited talk, Maestría de Antropología, Pontificia Universidad Católica del Perú.
 
 2024. "[Letting Images Connect: A Multimodal Method for Anthropological Thinking](https://www.youtube.com/watch?v=kYiePpIqRTs)." Workshop "Multimodal Anthropologies across the Pacific," Tokyo University of Foreign Studies.
 
@@ -59,6 +67,8 @@ Alongside the research on cuisine, I am also practising 'evocative film' and 'ev
 2017. "Tim Ingold, *Making: Anthropology, Archeology, Art and Architecture*, 2013." *Journal of Cultural Anthropology (Bunkajinruigaku Kenkyu)* 17: 108–109.
 
 ### Translation
+
+2026. Marilyn Strathern, *The Gender of the Gift* (Japanese translation: *Zōyo no jendā*). Co-translated with eight others; chapters 1 ("An Anthropological Strategy") and 2 ("A Place in the Feminist Debate"). Tokyo: Suiseisha.
 
 2017. Casper Bruun Jensen, "Thinking the Earth: New Disciplinary Alliances in the Anthropocene." *Revue de la Pensée d'Aujourd'hui (Gendai Shiso)* 45(22): 46–57.
 
