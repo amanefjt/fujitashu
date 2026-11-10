@@ -21,6 +21,9 @@
   <script type="application/ld+json">
   {{ dict "@context" "https://schema.org" "@type" "Person" "name" .Site.Params.authorName "alternateName" .Site.Params.authorNameEn "url" .Site.BaseURL "jobTitle" .Site.Params.authorJobTitle "affiliation" (dict "@type" "CollegeOrUniversity" "name" .Site.Params.authorAffiliation) "sameAs" .Site.Params.sameAs | jsonify | safeJS }}
   </script>
+  <script type="application/ld+json">
+  {{ dict "@context" "https://schema.org" "@type" "WebSite" "name" .Site.Title "alternateName" .Site.Params.authorName "url" .Site.BaseURL | jsonify | safeJS }}
+  </script>
   {{ end }}
   <link rel="stylesheet" href="{{ "/style.css" | relURL }}">
 </head>
